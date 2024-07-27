@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+#task-form {
+    margin-bottom: 20px;
+}
+#task-list {
+    margin-top: 20px;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none; /* sınırları kaldır */
+    background-color: #007bff; /* arka plan rengi */
+    color: white; /* metin rengi */
+    border-radius: 4px; /* köşe yuvarlama */
+    display: inline-block; /* hizalama */
+}
